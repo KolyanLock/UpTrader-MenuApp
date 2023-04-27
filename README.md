@@ -26,7 +26,7 @@ To use the menu tag in your templates, you can include the following code:
 ```
 You can change the name 'main_menu' to match the name of the menu you want to render.
 
-<div style="text-align: right;">
+<p align="right">
 Author: Nikolay T.<br>
 Telegram: <a href="https://t.me/KolyanLock">@KolyanLock</a>
-</div>
+</p>
