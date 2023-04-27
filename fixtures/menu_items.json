@@ -1,0 +1,32 @@
+[
+    {
+        "model": "menu_app.menuitem",
+        "pk": 1,
+        "fields": {
+            "title": "Home",
+            "url": "/",
+            "parent": null,
+            "menu_name": "main_menu"
+        }
+    },
+    {
+        "model": "menu_app.menuitem",
+        "pk": 2,
+        "fields": {
+            "title": "About",
+            "url": "/about/",
+            "parent": null,
+            "menu_name": "main_menu"
+        }
+    },
+    {
+        "model": "menu_app.menuitem",
+        "pk": 3,
+        "fields": {
+            "title": "Contact",
+            "url": "/contact/",
+            "parent": null,
+            "menu_name": "main_menu"
+        }
+    }
+]
